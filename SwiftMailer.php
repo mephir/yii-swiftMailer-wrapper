@@ -1,4 +1,6 @@
 <?php
+require_once dirname(__FILE__).'/vendor/lib/swift_required.php';
+
 /**
  * SwiftMailer is the main entry point for the mailer system based on sfMailer class which is part of symfony package(http://symfony-project.org)
  *
